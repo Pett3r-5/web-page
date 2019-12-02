@@ -23,7 +23,7 @@ function App() {
         </Col>
         </Row>
       <Row style={{paddingLeft:"50px", paddingRight:"50px"}}>
-        <Col style={{paddingLeft:"15px", paddingRight:"15px"}}>
+        <Col  sm={{ size: 10, offset: 1 }} md={{ size: 6, offset: 3 }}>
           <p style={{textAlign:"center"}}>
           Reuniões fixas todas as segundas-feiras das 14h às 16:30h, aberta ao publico, porém é necessário pedir que um membro abra a porta do prédio para acesso, pois não tem porteiro/portaria no local.
           </p>
