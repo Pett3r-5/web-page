@@ -21,3 +21,12 @@ body {
   background-color: rgb(249, 241, 220);
 }
 
+@font-face {
+  font-family: textFont;
+  src: url(font1.otf);
+}
+
+p {
+  font-size: 18px;
+  font-family: textFont;
+}
