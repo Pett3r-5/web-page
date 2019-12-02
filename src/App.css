@@ -23,7 +23,7 @@ body {
 
 @font-face {
   font-family: textFont;
-  src: url(Brandon_light.otf);
+  src: url("./fonts/Brandon_light.otf");
 }
 
 p {
